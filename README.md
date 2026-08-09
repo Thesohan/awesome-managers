@@ -15,7 +15,7 @@ _Note: There are plenty of reading lists out there, but this one is my personal 
 
 ### Behaviors
 
-* [Servant Leadership](https://adl.io/essays/why-software-development-requires-servant-leaders/) -  The best managers see blockers coming and act early to prevent them from ever surfacing. They way good QA team stretches the software to its limit, a good manager stretches the requirements to their limit to ensure they’re not broken!
+* [Servant Leadership](https://adl.io/essays/why-software-development-requires-servant-leaders/) -  The best managers see blockers coming and act early to prevent them from ever surfacing. The way a good QA team stretches the software to its limit, a good manager stretches the requirements to their limit to ensure they’re not broken!
 * [How to Be a Person Who Can Make a Damn Decision](https://melmagazine.com/how-to-be-a-person-who-can-make-a-damn-decision-c8e374d01d52) - Often, any decision is better than no decision at all
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - How often did teammates socialize outside the office?
 * [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes) - I believed my technical ability entitled me to lead. I wanted to control, everything when I needed to empower others. etc.
@@ -63,4 +63,3 @@ If you have more time to explore this topic, here are a few more references that
 * [Awesome list - Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing#awesome-leadership-and-management-)
 * [Advice from Hacker News users: Going from Developer to Manager. What should I know or learn?
 ](https://news.ycombinator.com/item?id=18823616)
-
