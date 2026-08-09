@@ -1,5 +1,3 @@
-
-
 # awesome-managers
 
 There aren't many engineers who aspire to grow into technical **Software Engineering Managers**. Instead, most seem to lean toward roles like Tech Lead or Architect. Why is that? Well, people often think management is tough. And they’re right. This role goes beyond just being good with technology. **It’s easier to tackle technical challenges, but getting people to work together and trust you?** That’s where it gets tricky. The real question is: are you up for it?
